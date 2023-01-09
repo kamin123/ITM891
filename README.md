@@ -7,5 +7,6 @@ In this course I hope to learn about different Machine Learning models and ways 
 * I hope to be introdued to Deep Learning.
 * I hope to learn about practical ways to apply these ML models and deep learning concepts. 
 
-[https://d2l.msu.edu/d2l/home/1656899]
+[Link to ITM 891 Course Page](https://d2l.msu.edu/d2l/home/1656899)
+
  
